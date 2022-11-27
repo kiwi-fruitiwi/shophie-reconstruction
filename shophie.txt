@@ -1,0 +1,452 @@
+# this is the original note file
+
+08:05 am Sunday, November 27, 2022
+[0805]→	Liran🎖️ tasks organization
+
+	print 🖨️ every item → give to Liran🎖️ on next meeting
+		check off, mark. photo
+		put on front door?
+
+	📅 set up meeting to touch base
+
+	☐ open up master bathroom
+	☐ need fireplace confirmation
+	☐ doors being hung on old hinges: new ones on 1F plastic costco table
+	☐ grout: expected darker gray smoother wipeable finish, esp in shower pan
+		need photo of grout product
+		minor grout fixes
+		color: we agreed on gray to match tile gray, erring→darker: ease clean
+		what to expect at expansion contraction joints
+	☐ kids bedroom door right frame crooked
+	☐ stair nose F&D
+	☐ demo list: laundry,
+	☐ half height 1F white divider counter replaced: wood. spray smooth finish
+	☐ white railings repaired, painted. was glossy → can we get semigloss?
+	☐ finishing up 🖌️ painting
+		caulk line: verify wall paint instead of trim paint per Alan's desc.
+		hand rails ← important they are smooth
+	☐ shower bath corner repair
+	☐ carpet for stairs ordered?
+	☐ request linen closet schematics
+	☐ plumber 🪠 replace water heater, flush mechanism of master bathroom toilet
+		install kitchen,
+
+	☐ 🥝 vacuum and cover exposed kitchen floor
+	☐ list of small flooring repairs → discord
+
+
+	☐ mirrors: powder replace, 2F guest bathroom, 2F master wall to wall. clips!
+	☐ kitchen cabinet pulls install
+	☐ ask expectations epoxy coat on garage french door entryway. or junk idea
+	☐ 12mm aquaguard F&D laminate for garage
+	☐ TREX projects: railing is color matched to TREX deck surface
+
+
+	☐ 🔬 chrome lip handles bathroom
+	☐ 💳 order powder vanity light
+	☐ 💡.🔬 kitchen ceiling, island, master closet, master bath², master bed²
+	☐ 💡.🔬 lights outside
+	☐ ❔ how does home depot discount work? all receipt IDs? does $ return to me?
+	☐ 🔬 linen closet schematics. what do we want though?
+	☐ 🔬 laundry shelf, replace crooked pipe entry
+	☐ 🔬 measure, purchase microwave: R1210TY? R1214?
+		Black Sharp R1210T, 60lb
+		15.56 depth
+		14.06 height
+		23-7/8 outside width
+		18.00 length
+	☐ 🔬 where are we actually storing things? losing:
+		3 bookshelves → most toys in boxes okay
+		many product boxes removed
+
+	☐ 🪠 no insinkerator! so what will the switch be for?
+	☐ when Liran🎖️ is finishing up: HVAC installation for 0F+3F. need paint
+
+
+11:41 am Wednesday, November 02, 2022
+[1141]→	redoing notes from
+
+```
+🚙→ meeting with Liran🎖️, Ovi🪨
+
+trim → sand textured, painted trim. install, caulk, cover, spray→ smooth finish
+countertops overhang ¼" because wavy procelain edges
+default mirror choices
+  buy mirror through liran, 🔬 vanity mirror edge finish
+  master: wall to wall
+  2F, 1F: move up for 8" backsplash
+  optional→ try one LED mirror, but requires electrical work
+shower pan: liran suggested octant pattern
+grout lines are tiny 1/16"
+talked about designers being useless and difficult to work with. no specs
+basement flooring plan: aqua-guard F&D website
+
+contradictions 🌟
+  off-center drain explanation doesn't make sense
+
+tasks 🥝
+  ☒  present centered vs π/4 rotation square drain
+  ☐ prepare list of purchasable bathroom hardware. links, $ spreadsheet
+    sinks! liran's is 18.5" x 12" inside, but kohler is measured outside
+    $200-250 vs kohler's $400-440
+  ☐ 🔬 sink overhang. get exact measurement from ovi. ask underside polish
+    flush mount vs tiny negative reveal.
+    silicone color: clear kitchen, white bathrooms
+  ☒ decide on hand shower for bathtub
+  ☐ take photo of laundry room back for pipe placement
+  ☐ double check already-installed posi-temp moen valve with shower specs
+  ☐ find out sink widths, maybe from old photos
+  ☐ choose laminate for garage entryway
+  ☐ make sure minor floor repairs are done before installation of trim
+
+I asked about
+  front door exterior + interior paint
+    exterior: sand prime tape paint
+  ovi will measure master bathroom toilet room cabinet
+    give rough estimates → 3 levels of quality (wood, doors, shelves)
+  price breakdown over phone because Liran said 30K covered all quartz
+
+need to ask about
+  → rip out remaining wire shelving in laundry room, master closet
+
+
+
+hey Ovi,
+
+I wanted to apologize to you for asking so many questions and getting so involved with the process. I was an (unwilling) homeowners association president for several years and am used to working very closely with all sorts of experts - roofers, arborists, painters, plumbers, you name it. This is the first time I've worked with a general contractor so I completely did not follow proper etiquette and overstepped boundaries.
+
+Liran told me I got you into trouble because we went into too much detail after he couldn't make the meeting and you tried your best to answer my questions in his stead. I tried to take responsibility. I know you were trying your best to help me out. Just wanted to say I appreciate that and sorry for what happened.
+
+If you have questions about being a dad or encouraging your kids to love learning (and coding) please let me know =)
+
+07:10 pm Monday, October 31, 2022
+[1910]→	revisions and confusion regarding extra work order: $59,700
+	30,000	quartz countertops and enclosures:
+				master bathtub, shower, 2F vanities
+				kitchen island + perimeter, 1F vanity
+
+			includes $4,500 for carpet:
+				2 stairs, bedroom, master bed+closet, 3F
+				+ 3 outlets in master closet
+	        includes $4,500 tub undermount: build new platform
+
+	15,000	composite decking with railings
+				total cost 10-15K depending on railing choice
+				can use wood lattice paint match to TREX choice
+	 2,000	composite porch platforms: top and bottom
+	 1,600	basement painting: $1,200 painting, $400 paint, two coats
+	 			miscommunication - was $1,200 but forgot paint cost
+
+	48,600	total so far
+			missing $11,100?
+
+
+	not included in extra work order:
+	   180		per door painting, air spray
+	 3,200		ballpark quote: replace water heater if necessary
+	 			2F kids vanity waterfall
+	 			fireplace mantle
+
+
+In-person meeting with 🎖️Liran, then follow-up phone calls. Liran showed samples. Ovi brought many stone samples and talked in detail about wet room and free standing tub options. They both urged having contrast in the kitchen island.
+	1. Painting 0F walls and ceiling. $1200
+	2. All countertop related work + carpets, electrical in master closet: 30K. Three side enclosure + glass door, undermount acrylic tub with quartz surround and waterfall, plumbing adjustment for tub, master vanity counter, second bathroom counter.
+	3. I need to approve a design for some sort of groutless shower pan that can somewhat match the quartz.
+	4. Deck is 14-15K. Small platforms on porch are 2K.
+	5. Opening up master bathroom ceiling to see if we can replace smaller ducting with 6" to lower fan noise: undetermined cost if it requires a lot of additional work.
+
+Note that doing the deck now will save 4-5K as opposed to doing it as a separate project. Doing the countertops now all together saves 4K in just labor: 9 vs 5.
+
+
+2022.11.09 → 💳 wrote 25K check for extra work order
+
+schedule of payment
+1.	 $4,500	before purchase finish material 🌜
+2.	 $4,000	after deliver finish material
+3. 	$10,000	after demo work done 🌜
+4.	 $6,500	after plumbing work done 🌜
+5.	 $6,500	after electrical work done 🌜
+6.	 $4,000	after prep work done 🌜
+7.	 $5,000	after tile work done
+8.	 $1,300	after vanity and fixtures installation done
+9.	 $3,400	after dry wall work done
+10.	 $2,000	after paint work done
+11.	 $2,000	after  carpet replacement work done
+12.  $2,500	after trim and baseboards replacement done
+13.	   $738.45 after project completed
+
+price		job
+61,938.45	base reconstruction by levelup
+-4,500		materials allowance
+
+
+additions below, 59,700
+
+→ railing. wseattle railing $700-800, installation 3500-4500
+
+30,000	  carpet + quartz related: 2F bathrooms, 1F island, bathtub, shower
+          carpet is 4,500
+          tub undermount is 4,500
+     ?    kitchen countertops
+
+
+15,000		composite decking with railings
+ 2,000		composite porch platforms
+ 1,600		basement painting: $1,200 painting, $400 paint, two coats
+
+48,600
+
+   180		per door painting
+ 3,200		replace water heater
+
+13,117.55	HVAC: two mini splits, greentop heating and cooling
+
+
+09:42 am Thursday, October 13, 2022
+[0942]→	[2323]-	Liran🎖️ document
+	☐ how is trim done. how is caulking added if painting off-site?
+	☐ removed ceiling projector
+	☐ suggestion: 0F is total painting room
+
+
+tub choice
+faucets by myself
+monday counter choice
+carpets ordered 7-10 days
+facetime
+
+drywall repair maybe by monday
+	no problem
+
+jeremy or alex foreman
+	can make stop over any time
+	2, 4p meetings back to back
+
+
+paint garage small section
+	0F have plumber check water heater for errors. beeps with error → hot stops
+		if we need to replace it, please suggest us a model
+	0F garage side: trim has not been removed from double doors + door
+	0F I left laminate stair nose on upside down white IKEA standing desk
+	0F laundry room:
+		white wire shelves should be removed
+			I would love suggestions on what to replace with
+		can we cover the black ABS pipe on right wall?
+		I need to know when washer and dryer moved out so I can replace builder switches and wall plate with legrand radiant
+		open to advice on modern alternative to cloth sliding door
+		currently baseboards have notch for cloth sliding door. should we keep?
+	0F can you remove project mount from stud, fill in before painting, then install again a few feet away from projector screen for better throw distance
+	0F fill in 10" x 10" plastic access panel, two unused outlets
+	0F near ceiling corner I think there's a chime box. can we remove it entirely and fill in the drywall?
+	0F paint two white floor shelf area along with trim and doors
+	0F mud, texture, paint garage nook walls; I moved most of it out
+	0F + 2F: paint railing after small repairs
+	1F we have crooked and not level transition from hallway laminate to carpet. unsure about positioning because it is awkwardly misaligned with baseboard bullnose. would like to consult with your flooring expert. extra materials hanging in garage. can buy metal instead of cheap plastic guide rail.
+	1F chime box, security system wiring removal, drywall fill.
+	1F can we repair the poor carpet joining in drum corner? I have a scrap
+	1F dining area: wait on baseboards: swapping out broken laminate boards
+	1F under white wood counters, trim needs to be bullnosed
+	1F thin white separator counter trim
+		please sand down texture before painting with trim
+	1F railing: need help with scuffed finish on main stairwell
+		can finish carpenter round out chewed up corner I cut out
+		cherry railing elbow damaged. tips on fixing
+	2F don't forget slide-into-wall toilet bathroom door
+	2F closet:
+		wire shelving, dresser, closet demo
+		during drywall repair: sand down incorrectly textured protruding north wall
+	2F I left legrand radiant outlets and covers for Taylor
+	2F what can we do with nook space in hallway next to stairs?
+	2F guest bathroom: can we install permanent shower bar, replace hardware. possible access panel in 2F guest bedroom wall
+	2F guest bedroom: repair three holes in wall. two small anchors. one tiny
+	2F stairs: stair nose, damaged board below carpet leading up to loft
+
+12:04 am Tuesday, October 11, 2022
+[1724]-	🎖️Liran questions
+	☒ 🌊 make a speadsheet of total costs
+	☐ waterfall hardware replacement for guest bathtub
+	☐ why does the first sip of water taste bad from kitchen faucet
+		clean out pink bacteria: serratia marcescens
+	☐ sink flanges are hard to clean
+
+	☐ tankless toilet
+	☐ barn door master bed
+	☐ how to clean kitchen backsplash
+
+	☐ I want to understand cost overlaps between reconstruction and extras
+		☐ what portion of cost was labor for shower + tub tile, original
+	☐ cost to install shower enclosure by itself if no reconstruction
+	☐ cost to install undermounted tub as solo project
+
+brushes are great for cleaning bacteria from showers drain covers
+bathroom remodeling pitfalls
+	plastic fixtures instead of brass for faucets
+	floor: nonslip, textured. not too textured for limescale buildup
+
+tiny touchups list
+
+
+06:59 pm Friday, September 30, 2022
+[1859]→	contact Tony about mirror ideas
+
+07:16 pm Thursday, September 29, 2022
+[1916]→	walkthrough meeting with liran
+
+🏭 todo
+	⚠ careful about too focused on details. 1F transitions are problematic
+	🔬 garage finishing ideas
+	🔬 built-in shelving
+	🔬 flush stair nose, transitions: floating floors need movement
+		maybe it's fine as long as it's installed properly
+	remove all blinds. wrap → garage
+	save newer carpet for 1F?
+	call junk removal service to independently remove trash bags
+	research master bathroom photos. ex: wainscoat
+		mozaic shower bed
+		undermount tub
+		barn doors seem dumb. cleaning, extra clutter
+
+	send liran's updated proposal to brian for sales tax processing
+
+improvements over base shophie
+	trim and baseboard completely redone +paint. fixes all damage, bad repairs
+	master bathroom → fan, vanity, shower enclosure, tub, tub tile
+	ripping out IKEA cabinets in master closet
+
+learned 🌜
+	baseboards are installed like new construction. nail → caulk → paint
+	master closet conversion to small closet + study is bad for resale
+		better to add electrical, use as study
+		demo of existing IKEA closets makes room enormous
+	liran recommends best panasonic silent fan in every fan area
+	full wall mirror is too big and 'feels off'
+	tile in bathroom is 12x24
+	grout isn't a big deal; materials are better now. seal to maintain
+		mosaic tile uses grout lines as nonslip grip
+	decking material is trex. take extra boards! like tile to replace D:
+
+main reconstruction
+	master bathroom remodel → fans, vanity
+	remove IKEA closet system while redoing carpet
+
+major projects
+	flooring → look into cork, engineered hardwood, acoustic underlayment
+		🔗 laminate flat transition youtu.be/bX7rcACGdcI
+		carpet to match master bedroom in 2F, 3F, and 2-3 flights of stairs
+		0F ← full refloor: cork
+		1F, 2F hallway full refloor to laminate with no raised transitions
+			or engineered hardwood
+			🔧 consider better transitions, replacement of damaged edge boards
+		1F carpet transition needs to be flawless, parallel
+	master closet ← add electrical: 2-3 outlets
+	replace ventilation fans in
+	 	laundry closet
+	 	1F bathroom
+	 	2F bathroom
+	 	master bathroom enclosed toilet section
+	deck ← trex. discuss styles, railing, privacy screen
+	garage ← small flooring project with stairs
+		is it even possible to make the concrete stairs and wall bottom smooth?
+			goal is easy to clean
+
+small odds and ends
+	paint all doors and frames the same color as trim; possible new hardware
+	paint and spot repair railings when trim paint is being done
+	water heater check by plumber while he's there
+	1F replace damaged laminate floorboards
+	possibly match vanities in 2F bathroom, 1F half bathroom
+
+inconsistencies
+	liran said closet study conversion was a good idea at first
+		but after 2nd walkthrough noted: probably poor resale value
+	emphatic about removing master vanity, then opened up keeping it
+
+
+
+07:50 am Friday, September 23, 2022
+[?...]-	hardwood loft?
+[?...]-	servpro review
+	⚠ ask which bath support beam needs to be replaced
+	keeping costs low daily check
+
+[0750]→	liran notes by area
+	materials research
+	attention to details discussion
+	baseboard glue vs holes
+
+
+	master bath
+		not convinced we want to eliminate vanity, esp fixtures
+
+		light fixtures need replacement? timer for
+		3 additional panasonic superfans. silent? specs $1300+
+
+	master bedroom, closet: shelves
+
+	guest bathroom
+		caulking silicone on wall
+		vanity to match master + shelves
+
+	1F
+		toshi's wall
+		kitchen baseboard
+		screw locations for squeaks
+
+	0F
+		flooring replacement since baseboards are out: new cork, lighter, harder
+
+
+	garage
+		inspect replace water heater
+
+
+
+[1142]-	HVAC research
+	robert ← overlake heating
+		spoke with him in 2016 ← convinced me not to upgrade HVAC system
+		gave him context and new project wishes: basement or that+loft. 7-13k
+		2022.08.29 call + photos
+		2022.09.01 text followup asking if any more data or visit needed
+	greentop (253) 754-5441
+	go-green (206) 620-1600
+	better air nw (206) 898-5743
+	skyline (425) 419-6548
+
+[0832]-	🏡 reconstruction research: 45⌚
+	Kevin Hackett
+	PNW Restoration
+	425-248-0076
+		business not registered on yelp but there's a pnwR in portland
+		linkedin page indicates 2 years
+
+	Eric Gagon
+	Crown Construction
+	425-503-6329
+		linkedin.com/in/eric-gagon-41145545	history degree, xp: 15 years
+		crowncsi.com/index.php ← empty webpage
+
+	Aaron Glenn
+	Done Right Construction
+	425-344-9668
+		no yelp page
+		BBB no reviews, no complaints
+
+	Ricky Denham
+	Kustom US
+	425-471-8139
+		yelp.com/biz/kustom-us-fife-2?osq=kustom+US
+		4🌟, 8 reviews
+		some communication and followup issues. very organized punch list
+
+	Jeff Leer
+	McBride Construction
+	206-283-7121
+		yelp.com/biz/mcbride-construction-resources-burien-2
+		2.5🌟, 44 reviews
+
+	all new again (425) 485-3333
+		yelp.com/biz/all-new-again-mill-creek-4
+		they do restoration and reconstruction. glowing reviews
+
+	wise choice construction  (206) 321-8867
+		yelp.com/biz/wise-choice-construction-mercer-island
